@@ -1,0 +1,131 @@
+[
+    {
+        "outputFile": "C:\\Users\\Adrian\\Documents\\new\\Newfolder\\TaskListWithSQLite_v3\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "C:\\Users\\Adrian\\Documents\\new\\Newfolder\\TaskListWithSQLite_v3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 46,
+                        "endOffset": 59
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 62,
+                    "endOffset": 160
+                },
+                "from": {
+                    "file": "C:\\Users\\Adrian\\Documents\\new\\Newfolder\\TaskListWithSQLite_v3\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 75,
+                        "endColumn": 62,
+                        "endOffset": 133
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Adrian\\Documents\\new\\New folder\\TaskListWithSQLite_v3\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "C:\\Users\\Adrian\\Documents\\new\\New folder\\TaskListWithSQLite_v3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 46,
+                        "endOffset": 59
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 62,
+                    "endOffset": 160
+                },
+                "from": {
+                    "file": "C:\\Users\\Adrian\\Documents\\new\\New folder\\TaskListWithSQLite_v3\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 75,
+                        "endColumn": 62,
+                        "endOffset": 133
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\ybyun\\Android_Studio\\TaskListWithSQLite_v3\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "C:\\ybyun\\Android_Studio\\TaskListWithSQLite_v3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 46,
+                        "endOffset": 59
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 62,
+                    "endOffset": 160
+                },
+                "from": {
+                    "file": "C:\\ybyun\\Android_Studio\\TaskListWithSQLite_v3\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 75,
+                        "endColumn": 62,
+                        "endOffset": 133
+                    }
+                }
+            }
+        ]
+    }
+]

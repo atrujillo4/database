@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\ybyun\Android_Studio\TaskListWithSQLite_v3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="cf8856a2f6806ad2a4b248bc3b8229cac243cc29">
+        <dex dex="C:\ybyun\Android_Studio\TaskListWithSQLite_v3\app\build\intermediates\pre-dexed\debug\instant-run_eb0bc4430fbfb33aaeebe5f3dc915bc8efdcadab.jar" />
+    </item>
+    <item
+        jar="C:\ybyun\Android_Studio\TaskListWithSQLite_v3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="bc584d4df2f18e65a8e4ec55f399c78e33e8adb9">
+        <dex dex="C:\ybyun\Android_Studio\TaskListWithSQLite_v3\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_73e4db1307cc36cedda3eecbb154282fdef52d88.jar" />
+    </item>
+
+</items>

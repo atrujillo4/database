@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="16"
+    density="hdpi"
+    format="7"
+    timestamp="90217477468332"
+    token="3328622281624856499" >
+
+    <task
+        name="javac"
+        duration="783" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="150" />
+    <task
+        name="verifier"
+        duration="57" />
+
+    <artifact
+        location="C:\ybyun\Android_Studio\TaskListWithSQLite_v3\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="90217477468332" >
+        <artifact
+            location="C:\ybyun\Android_Studio\TaskListWithSQLite_v3\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
